@@ -176,7 +176,7 @@ function goToHome(){
     resultBox.classList.add("hide");
     homeBox.classList.add("hide");
     //vai para pagina inicial
-    window.location.href = "/paginaInicial.html";
+    window.location.href = "index.html";
 }
 
 //###### iNICIANDO O QUIZZ#####//
